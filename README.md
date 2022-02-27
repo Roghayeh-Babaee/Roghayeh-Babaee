@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roghayeh-Babaee
 - 👀 I’m interested in security network and Hack
-- 🌱 I’m currently learning Hack
+- 🌱 I’m currently learning Ethical Hack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram ID @raha_roh
 
